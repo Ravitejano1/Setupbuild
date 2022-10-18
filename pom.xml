@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>AshokIT</groupId>
-  <artifactId>Axis bank</artifactId>
+  <artifactId>Axis_bank</artifactId>
   <version>1.5</version>
 
-  <name>Axis bank</name>
+  <name>Axis_bank</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
